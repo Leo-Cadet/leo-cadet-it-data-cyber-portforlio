@@ -51,11 +51,11 @@ I am building practical experience for roles such as:
 
 | Repository | Focus |
 |---|---|
-| [Help Desk Runbooks](https://github.com/Leo-Cadet/-Helpdesk-Runbooks) | Tier 1 troubleshooting and support documentation |
-| [Splunk Failed Detection Lab](https://github.com/Leo-Cadet/Splunk-failed-detection-lab) | Linux SSH failed-login detection with Splunk |
+| [Help Desk Runbooks](https://github.com/Leo-Cadet/helpdesk-runbooks) | Tier 1 troubleshooting and support documentation |
+| [Splunk Failed Login Detection Lab](https://github.com/Leo-Cadet/Splunk-failed-login-detection-lab) | Linux SSH failed-login detection with Splunk |
 | [Splunk SOC Alert Triage Lab](https://github.com/Leo-Cadet/splunk-soc-alert-triage-lab) | SOC-style alert review and investigation workflow |
 | [Splunk Windows Event Analysis](https://github.com/Leo-Cadet/splunk-windows-event-analysis) | Windows security log analysis practice |
-| [Data Analyst](https://github.com/Leo-Cadet/Data-Analyst-) | Data cleaning, reporting, and analysis practice |
+| [Data Analyst Portfolio](https://github.com/Leo-Cadet/data-analyst-portfolio) | Data cleaning, reporting, and analysis practice |
 
 ## Current Learning Path
 
