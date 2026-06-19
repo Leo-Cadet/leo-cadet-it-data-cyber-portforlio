@@ -1,21 +1,77 @@
-# leo-cadet-it-data-cyber-portforlio
-# Leo Cadet IT, Cybersecurity & Data Portfolio
+# Leo Cadet — IT, Cybersecurity & Data Portfolio
 
-This portfolio contains hands-on labs and projects focused on help desk support, SOC analysis, Splunk, SQL, Excel dashboards, and business/data analysis.
+This portfolio documents hands-on projects for entry-level IT support, help desk operations, security analysis, Splunk, SQL, Excel, and data analysis.
 
-## Sections
+## Career Focus
 
-### Splunk Labs
-Hands-on SIEM labs using Splunk to detect failed logins, suspicious activity, and Windows security events.
+I am building practical experience for roles such as:
 
-### SQL Labs
-SQL and MySQL projects focused on querying, filtering, joining, and analyzing support or business data.
+- Help Desk Technician
+- IT Support Specialist
+- Active Directory Support
+- SOC Analyst Trainee
+- Security Data Analyst
 
-### Excel Dashboards
-Dashboards and reports for KPIs, help desk tickets, delivery performance, and business operations.
+## Core Skill Areas
 
-### Help Desk Runbooks
-Step-by-step troubleshooting documentation for common IT support issues.
+### Help Desk / IT Support
 
-### Data Analysis Projects
-Projects using Excel, SQL, and dashboards to analyze business and operational data.
+- Troubleshooting workflows
+- Ticket documentation
+- User support scenarios
+- Windows support basics
+- Office 365 support basics
+- Active Directory fundamentals
+
+### Cybersecurity / SOC
+
+- Splunk searches and dashboards
+- Failed login analysis
+- Windows Event Log review
+- Alert triage practice
+- Basic detection logic
+- Security documentation
+
+### SQL / Data Analysis
+
+- Filtering and querying data
+- Joins and table relationships
+- Operational reporting
+- Support ticket analysis
+- Security event analysis
+
+### Excel / Reporting
+
+- Dashboards
+- KPI tracking
+- Cleaning and organizing data
+- Reporting for business operations
+
+## Featured Repositories
+
+| Repository | Focus |
+|---|---|
+| [Help Desk Runbooks](https://github.com/Leo-Cadet/-Helpdesk-Runbooks) | Tier 1 troubleshooting and support documentation |
+| [Splunk Failed Detection Lab](https://github.com/Leo-Cadet/Splunk-failed-detection-lab) | Linux SSH failed-login detection with Splunk |
+| [Splunk SOC Alert Triage Lab](https://github.com/Leo-Cadet/splunk-soc-alert-triage-lab) | SOC-style alert review and investigation workflow |
+| [Splunk Windows Event Analysis](https://github.com/Leo-Cadet/splunk-windows-event-analysis) | Windows security log analysis practice |
+| [Data Analyst](https://github.com/Leo-Cadet/Data-Analyst-) | Data cleaning, reporting, and analysis practice |
+
+## Current Learning Path
+
+1. Build Help Desk documentation habits.
+2. Practice Active Directory and Windows support workflows.
+3. Use SQL to query and analyze operational data.
+4. Use Splunk to investigate security events.
+5. Turn labs into clean portfolio documentation.
+
+## Portfolio Standard
+
+Each project should show:
+
+- The problem being solved
+- The tools used
+- The steps taken
+- Screenshots or sample outputs when available
+- What was learned
+- How the skill connects to a real IT or SOC role
